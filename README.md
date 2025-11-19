@@ -48,7 +48,7 @@ Installation
 
 Clone the Repository:
 
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+git clone [https://github.com/Keerthana093/Web-Scraper-for-News-Headline.git]
 cd YourRepoName
 
 
